@@ -6,7 +6,7 @@
 
 Итак
 Для начала скачиваем всё
-![Download](https://i.yapx.ru/SNHYn.gif)
+https://i.yapx.ru/SNHYn.gif
 После распаковываем архив.
 Переходим в директорию файлов
 
@@ -23,4 +23,4 @@ $ pip install -r requirements.txt
 $ py menu.py
 
 Вот и всё можете выбирать что вам надо
-![Demo](https://i.yapx.ru/SNHge.gif)
+https://i.yapx.ru/SNHge.gif
